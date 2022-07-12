@@ -1,15 +1,12 @@
 ---
-name: Story
+name: Task
 about: Describe this issue template's purpose here.
 title: ''
-labels: story
+labels: enhancement
 assignees: ''
 
 ---
 
-Epic: #
+Story: #
 
-Description:
-
-Tasks:
-- [ ] #
+Description
